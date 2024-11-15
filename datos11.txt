@@ -1,0 +1,9 @@
+127.0.0.1 - - [14/Nov/2024:12:34:56 -0500] "GET /index.html HTTP/1.1" 200 1024 "http://www.ejemplo.com/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" 0.123
+192.168.1.1 - - [14/Nov/2024:12:35:01 -0500] "POST /login HTTP/1.1" 302 512 "http://www.ejemplo.com/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Safari/537.36" 0.205
+203.0.113.45 - - [14/Nov/2024:12:36:10 -0500] "GET /about-us HTTP/1.1" 200 1348 "http://www.ejemplo.com/" "Mozilla/5.0 (Linux; Android 10; Pixel 4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Mobile Safari/537.36" 0.134
+198.51.100.23 - - [14/Nov/2024:12:37:15 -0500] "GET /contact HTTP/1.1" 404 512 "http://www.ejemplo.com/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" 0.076
+192.168.0.2 - - [14/Nov/2024:12:38:00 -0500] "POST /api/user/login HTTP/1.1" 200 256 "http://www.ejemplo.com/login" "Mozilla/5.0 (iPhone; CPU iPhone OS 14_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/537.36" 0.292
+10.0.0.5 - - [14/Nov/2024:12:39:35 -0500] "GET /dashboard HTTP/1.1" 403 0 "http://www.ejemplo.com/" "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:40.0) Gecko/20100101 Firefox/40.0" 0.065
+203.0.113.67 - - [14/Nov/2024:12:40:02 -0500] "GET /images/logo.png HTTP/1.1" 200 12894 "http://www.ejemplo.com/" "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:40.0) Gecko/20100101 Firefox/40.0" 0.034
+198.51.100.100 - - [14/Nov/2024:12:41:10 -0500] "GET /products HTTP/1.1" 500 152 "http://www.ejemplo.com/" "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:40.0) Gecko/20100101 Firefox/40.0" 1.230
+"""
